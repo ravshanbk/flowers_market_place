@@ -10,7 +10,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <tr>
 	<p align="center">
-<img src="../assets/screen2.jpg" width="250" height="542"/>
+<img src="../assets/images/screen2.jpg" width="250" height="542"/>
 <img src="../assets/screen5.jpg" width="250" height="542"/>
 <img src="../assets/screen6.jpg" width="250" height="542"/>
 </p></tr>
